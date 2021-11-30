@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rezakhademi
-- 👀 I’m interested in Php/Laravel/VueJS/C#/.netCore
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Php/Laravel/VueJS
+- 🌱 I’m currently learning python
 - 📫 How to reach me => srkh.work@gmail.com
 
 <!---

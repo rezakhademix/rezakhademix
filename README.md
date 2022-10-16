@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rezakhademi
 - 👀 I’m interested in Php/Laravel/VueJS
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ...
 - 📫 How to reach me => srkh.work@gmail.com
 
 <!---

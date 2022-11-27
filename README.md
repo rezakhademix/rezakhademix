@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on [EntekhabGroup](https://en.entekhabgroup.com/) <br>📝  I regularly write articles on [Medium](https://medium.com/@rezakhademi)
+📝  I regularly write articles on [Medium](https://medium.com/@rezakhademi)
 
 
 ## 🌐 Socials:

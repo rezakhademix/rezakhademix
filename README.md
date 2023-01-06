@@ -1,5 +1,5 @@
 # 💫 About Me:
-📝  I regularly write articles on [Medium](https://medium.com/@rezakhademi)
+📝  I sometimes write articles on [Medium](https://medium.com/@rezakhademi)
 
 
 ## 🌐 Socials:

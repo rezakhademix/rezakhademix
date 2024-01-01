@@ -1,7 +1,7 @@
 ## 💫 About Me:
-📝  I sometimes write articles on [Medium](https://medium.com/@rezakhademi)
+📝  I sometimes write articles on [Medium](https://medium.com/@rezakhademix)
 
-🌐  Here is my Gitlab profile [Gitlab](https://gitlab.com/rezakhademi)
+🌐  Here is my Gitlab profile [Gitlab](https://gitlab.com/rezakhademix)
 
 
 
@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rezakhademix) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://rezakhademi.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rezakhademix) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://rezakhademix.medium.com/)
 <br>
 
 ## 💻 Tech Stack:

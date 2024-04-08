@@ -1,9 +1,6 @@
 ## 💫 About Me:
 📝  I sometimes write articles on [Medium](https://medium.com/@rezakhademix)
 
-🌐  Here is my Gitlab profile [Gitlab](https://gitlab.com/rezakhademix)
-
-
 
 
 
